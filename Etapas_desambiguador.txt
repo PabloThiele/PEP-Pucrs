@@ -1,0 +1,15 @@
+Parser de palavras usando o mtmdd
+
+Etapa 1 - Sortear as opções entre as possíveis.
+
+Etapa 2 - Leia o corpus uma lista de palavras e veja o valor de proporção delas.
+	Faça o sorteio utilizando essa proporção como base.
+	
+Etapa 3 - Verifique a classe gramatical do vizinho anterior, usando a possibilidade de agrupar esses 
+ valores e realizar um sorteio mais específico. 
+ 
+Etapa 3.5 - Verificar o vizinho sucessor.
+
+Etapa 3.5.1 - Verificar ambos os vizinhos ao mesmo tempo.
+
+Etapa 4 - Verificar novas possibilidades de mineração de dados.
